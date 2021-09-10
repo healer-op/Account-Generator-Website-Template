@@ -2,6 +2,7 @@
 ⚡ Account Generator Website Template Like H-gen
 
 🪟[View Website](https://healer-op.github.io/Account-Generator-Website-Template/index.html) \
+\
 ⚠️🤚 Consent This website uses your api to check time interval you ip is never stored in any form.
 
 ## Features
