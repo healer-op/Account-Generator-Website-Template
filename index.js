@@ -12,9 +12,11 @@
 const success = new Audio('https://github.com/healer-op/n0des/blob/main/payapi/success.mp3?raw=true');
 const bg = new Audio('https://github.com/healer-op/HealCloud/blob/main/mp3/Sarah%20Cothran%20-%20As%20The%20World%20Caves%20In%20(Wuki%20Remix).mp3?raw=true');
 
-bg.play();
-bg.play();
-bg.play();
+function Music(){
+     bg.play();
+}
+
+Music();
 function Generate(){
     fetch('Genos.json') // Fetch a url Containing Accounts 
     .then(res=> res.json())
