@@ -1,0 +1,10 @@
+{
+    "name": "GenosApi",
+    "LastUpdate": "08-09-21",
+    "Account":{
+        "Healer1": ["ilovecandies","ilovetocodeinjs"],
+        "Healer2": ["MadeByHealer","wow"],
+        "Healer3": ["",""]
+    }
+    
+}
